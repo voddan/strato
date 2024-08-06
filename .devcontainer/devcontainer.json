@@ -1,0 +1,5 @@
+{
+  "image": "mobiledevops/android-sdk-image:34.0.0-jdk17",
+  "features": {
+  }
+}
